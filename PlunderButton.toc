@@ -2,7 +2,7 @@
 ## Title: Plunder Button
 ## Notes: View the new Keg Leg's Crew (Battle Royale) renown easily in retail by adding a button to the addon compartment.
 ## Author: xIGBClutchIx
-## Version: 1.0.0
+## Version: 1.0.1
 ## AddonCompartmentFunc: PlunderButton_OnAddonCompartmentClick
 ## IconAtlas: Auctioneer
 
