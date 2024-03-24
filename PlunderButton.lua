@@ -3,6 +3,6 @@ function PlunderButton_OnAddonCompartmentClick(addonName, buttonName, menuButton
 	    MajorFactions_LoadUI();
 	end
 	HideUIPanel(MajorFactionRenownFrame);
-	MajorFactionRenownFrame:SetMajorFaction(2593);
+	MajorFactionRenownFrame:SetMajorFaction(Constants.MajorFactionsConsts.PLUNDERSTORM_MAJOR_FACTION_ID);
 	ShowUIPanel(MajorFactionRenownFrame);
 end
